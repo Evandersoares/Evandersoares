@@ -39,4 +39,5 @@
 [![Linkedin: EvanderSoares](https://img.shields.io/badge/-EvanderSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evander-soares-37a17b115/)](https://www.linkedin.com/in/evander-soares-37a17b115/)
 [![Gmail Badge](https://img.shields.io/badge/-evandersoares@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandersoares@hotmail.com)](mailto:evandersoares@hotmail.com)
 [![GitHub EvanderSoares]( https://img.shields.io/github/followers/EvanderSoares?label=follow&style=social)](https://github.com/Evandersoares)
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" href="https://api.whatsapp.com/send?phone=5511946683495">
 
