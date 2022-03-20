@@ -37,8 +37,7 @@
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
 [![Linkedin: EvanderSoares](https://img.shields.io/badge/-EvanderSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evander-soares-37a17b115/)](https://www.linkedin.com/in/evander-soares-37a17b115/)
-[![Gmail Badge](https://img.shields.io/badge/-evandersoares@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandersoares@hotmail.com)](mailto:evandersoares@hotmail.com)<br>
-[![GitHub EvanderSoares]( https://img.shields.io/github/followers/EvanderSoares?label=follow&style=social)](https://github.com/Evandersoares)
+[![Gmail Badge](https://img.shields.io/badge/-evandersoares@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandersoares@hotmail.com)](mailto:evandersoares@hotmail.com)
+[![GitHub EvanderSoares]( https://img.shields.io/github/followers/EvanderSoares?label=follow&style=social)](https://github.com/Evandersoares)<br>
 <a href="https://api.whatsapp.com/send?phone=5511946683495"> <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
-
 <a href="https://www.instagram.com/evandersoares/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
