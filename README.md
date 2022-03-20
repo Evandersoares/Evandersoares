@@ -4,7 +4,7 @@
 <h3> 👨‍🦱: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Progrmação** no <a href="https://rodolfomori.com.br/aulas-aovivo/">DevClub</a>.
+- 🎓 &nbsp; Estudando **Programação** no <a href="https://rodolfomori.com.br/aulas-aovivo/">DevClub</a>.
 - 💼 &nbsp; Em busca do Primeiro emprego como **Dev Júnior**.
 - 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS, GIT E GITHUB, JavaScript, Node e React**.
 
@@ -30,13 +30,13 @@
 <br/>
 
 <a href="https://github.com/EvanderSoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=VanessaSwerts&theme=Highcontrast&show_icons=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvanderSoares&theme=Highcontrast&show_icons=true" />
 </a>
 
 <br/>
 
 <h3> :earth_americas: &nbsp;Onde me encontrar: </h3> 
 
-[![Linkedin: EvanderSoares](https://img.shields.io/badge/-USERNAME-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evander-soares-37a17b115/)](https://www.linkedin.com/in/evander-soares-37a17b115/)
-[![Gmail Badge](https://img.shields.io/badge/-seuemail@email.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandersoares@hotmail.com)](mailto:evandersoares@hotmail.com)
+[![Linkedin: EvanderSoares](https://img.shields.io/badge/-EvanderSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evander-soares-37a17b115/)](https://www.linkedin.com/in/evander-soares-37a17b115/)
+[![Gmail Badge](https://img.shields.io/badge/-evandersoares@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandersoares@hotmail.com)](mailto:evandersoares@hotmail.com)
 [![GitHub SEU NOME]( https://img.shields.io/github/followers/EvanderSoares?label=follow&style=social)](https://github.com/Evandersoares)
