@@ -40,4 +40,4 @@
 [![Linkedin: EvanderSoares](https://img.shields.io/badge/-EvanderSoares-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/evander-soares-37a17b115/)](https://www.linkedin.com/in/evander-soares-37a17b115/)
 [![Gmail Badge](https://img.shields.io/badge/-evandersoares@hotmail.com-006bed?style=flat-square&logo=Gmail&logoColor=white&link=mailto:evandersoares@hotmail.com)](mailto:evandersoares@hotmail.com)
 [![GitHub EvanderSoares]( https://img.shields.io/github/followers/EvanderSoares?label=follow&style=social)](https://github.com/Evandersoares)
-[Whatssap EvanderSoares]( https://img.shields.io/badge/WhatsApp-11946683495?style=for-the-badge&logo=whatsapp&logoColor=white)
+[![GitHub EvanderSoares]( https://img.shields.io/badge/WhatsApp-11946683495?style=for-the-badge&logo=whatsapp&logoColor=white)
