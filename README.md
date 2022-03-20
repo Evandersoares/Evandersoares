@@ -29,9 +29,8 @@
 
 <br/>
 
-<a href="https://github.com/EvanderSoares">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EvanderSoares&theme=Highcontrast&show_icons=true" />
-</a>
+[![card](https://github-readme-stats.vercel.app/api?username=iuricode&theme=highcontrast&show_icons=true)](https://github.com/iuricode/)
+[![iuricode](https://github-readme-stats.vercel.app/api/top-langs/?username=iuricode&hide=html&layout=compact&theme=highcontrast)](https://github.com/iuricode/)
 
 <br/>
 
