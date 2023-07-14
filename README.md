@@ -4,8 +4,8 @@
 <h3> 👨‍🦱: &nbsp;Sobre mim </h3>
 
 - 🤔 &nbsp; Explorando novas tecnologias e desenvolvendo soluções de software.
-- 🎓 &nbsp; Estudando **Programação** no <a href="https://rodolfomori.com.br/aulas-aovivo/">DevClub</a>.
-- 💼 &nbsp; Em busca do Primeiro emprego como **Dev Júnior**.
+- 🎓 &nbsp; **Programação** no <a href="https://rodolfomori.com.br/aulas-aovivo/">DevClub</a>.
+- 💼 &nbsp; **Dev Júnior**.
 - 🌱 &nbsp; Aprendendo mais sobre **HTML5, CSS, GIT E GITHUB, JavaScript, Node e React**.
 
 <h3> :rocket: &nbsp;Minhas Skills </h3>
